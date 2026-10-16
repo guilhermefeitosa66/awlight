@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=AW Light
+GenericName=Iluminação RGB
+Comment=Cores do teclado, trackpad, logo e botão power do Alienware m16 R2
+Exec=@BIN@ gui
+Icon=awlight
+Terminal=false
+Categories=Settings;HardwareSettings;
+Keywords=alienware;rgb;led;teclado;keyboard;

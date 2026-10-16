@@ -1,0 +1,15 @@
+AW Light (awlight)
+Copyright 2026 Guilherme Feitoza
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The keyboard LED IDs in awlight/layout.py were based on the device database of
+alienfx-tools (https://github.com/T-Troll/alienfx-tools), Copyright (c) 2020
+Rik Lain, released under the MIT License, and then verified on real hardware.
+
+The HID protocol was implemented from the behavior documented by alienfx-tools
+and OpenRGB (https://gitlab.com/CalcProgrammer1/OpenRGB). No code from those
+projects is included.
+
+This project is not affiliated with, endorsed by or sponsored by Dell Inc.
+Alienware is a trademark of Dell Inc.

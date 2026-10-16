@@ -1,0 +1,11 @@
+[Unit]
+Description=awlight: aplica a iluminação do Alienware no login e após a suspensão
+
+[Service]
+Type=simple
+ExecStart=@BIN@ daemon
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target
