@@ -19,6 +19,10 @@ O Alienware Command Center só existe para Windows. O AW Light faz o mesmo contr
 Linux, falando direto com os controladores USB do notebook pelo `/dev/hidraw`. Não precisa de
 driver de kernel nem de rodar como root.
 
+<p align="center">
+  <img src="docs/media/teclado.gif" width="640" alt="Teclado azul com WASD em vermelho e o trackpad em respiração vermelha">
+</p>
+
 ![Teclado por tecla](docs/screenshots/teclado-por-tecla.png)
 
 ![Luzes do chassi](docs/screenshots/chassi.png)
